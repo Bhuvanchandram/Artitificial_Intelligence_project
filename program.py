@@ -3,7 +3,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 
 
-# Sample values for the X array
+# Sample values for the patient data array
 X = np.array([[45, 29, 120, 1, 1, 2, 1, 0],
               [55, 34, 140, 0, 2, 1, 0, 1],
               [30, 26, 100, 1, 3, 3, 1, 0],
